@@ -1,1 +1,1 @@
-# Twitter_real_or_nor_real_disaster
+# Twitter_comments_real_or_not_real_disaster_predictor
